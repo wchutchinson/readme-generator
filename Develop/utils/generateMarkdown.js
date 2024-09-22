@@ -70,7 +70,6 @@ function generateMarkdown(data) {
   * [License](#license)
   * [Contributing](#contributing)
   * [Tests](#tests)
-  * [License](#license)
   * [Questions](#questions)
 
   ## Installation
@@ -89,7 +88,7 @@ function generateMarkdown(data) {
 
   ## Questions
   If you have any questions, please reach out to me at ${data.email}.
-  You can also visit my GitHub profile at ${data.github}`;
+  You can also visit my GitHub profile at https://github.com/${data.github}.`;
 }
 
 export default generateMarkdown;
