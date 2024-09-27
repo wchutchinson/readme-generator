@@ -17,6 +17,7 @@ The following are important npm packages that need to be installed to the develo
 ## Usage
 To generate a README for you project, add the Develop directory in this project to your development directory, and run the command: node index.js.
 
+[Video of the README Generator](https://watch.screencastify.com/v/Iw9ePDou7tjZ9qJXKE8B)
 
 ![Running the README Generator](./images/Running-README-Generator.gif)
 
